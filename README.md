@@ -1,5 +1,6 @@
-# 2D-Pose-TwoStream-Framework
+This repository contain the official implementation of the paper: <br>
+"Two-Stream Framework for Activity Recognition with 2D Human Pose Estimation".
 
-OS: Ubuntu 18.04 / Windows 10
-Language: Python 3.6+
-Core Tech: 2D Pose Estimation, Two-Stream CNNs
+OS: Ubuntu 18.04 / Windows 10 <br>
+Language: Python 3.6+ <br>
+Core Tech: 2D Pose Estimation, Two-Stream CNNs <br>
